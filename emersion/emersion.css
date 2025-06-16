@@ -1,0 +1,14 @@
+#head{
+    border: 2px solid green;
+}
+
+#outer{
+    height: 10px;
+    border: 1px solid green;
+}
+
+#inner{
+    background-color: yellowgreen;
+    height: 100%;
+    width: 0%;
+}
